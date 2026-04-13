@@ -19,7 +19,7 @@ rootProject.allprojects {
         google()
         mavenCentral()
         maven {
-        	   url 'https://github.com/pagseguro/PlugPagServiceWrapper/raw/master'
+        	   url 'https://github.com/pagseguro/pagseguro-sdk-plugpagservicewrapper/raw/master'
        		}
     }
 }
